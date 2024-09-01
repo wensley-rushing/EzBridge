@@ -12,7 +12,7 @@ e-mail: volkanozsarac@iusspavia.it
 #  Import Python Libraries
 #  ----------------------------------------------------------------------------
 import pickle
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 from scipy.interpolate import interp1d
 import os
 import numpy as np
